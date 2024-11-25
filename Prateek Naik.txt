@@ -1,1 +1,2 @@
 Update customer record.
+Insert customer record
